@@ -118,7 +118,7 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.FloralWhite;
+            this.label1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label1.Location = new System.Drawing.Point(117, 144);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(84, 23);
@@ -130,7 +130,7 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label2.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label2.Location = new System.Drawing.Point(117, 184);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(82, 23);
@@ -142,7 +142,7 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label3.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label3.Location = new System.Drawing.Point(117, 224);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(113, 23);
@@ -154,7 +154,7 @@
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label4.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label4.Location = new System.Drawing.Point(117, 384);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(205, 23);
@@ -166,7 +166,7 @@
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label5.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label5.Location = new System.Drawing.Point(117, 304);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(72, 23);
@@ -178,7 +178,7 @@
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label6.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label6.Location = new System.Drawing.Point(117, 264);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(89, 23);
@@ -190,7 +190,7 @@
             this.LBLnacudiente.AutoSize = true;
             this.LBLnacudiente.BackColor = System.Drawing.Color.Transparent;
             this.LBLnacudiente.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LBLnacudiente.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.LBLnacudiente.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.LBLnacudiente.Location = new System.Drawing.Point(484, 270);
             this.LBLnacudiente.Name = "LBLnacudiente";
             this.LBLnacudiente.Size = new System.Drawing.Size(187, 23);
@@ -203,7 +203,7 @@
             this.LBLestudiante.AutoSize = true;
             this.LBLestudiante.BackColor = System.Drawing.Color.Transparent;
             this.LBLestudiante.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LBLestudiante.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.LBLestudiante.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.LBLestudiante.Location = new System.Drawing.Point(484, 186);
             this.LBLestudiante.Name = "LBLestudiante";
             this.LBLestudiante.Size = new System.Drawing.Size(105, 23);
@@ -225,7 +225,7 @@
             this.LBLescuela.AutoSize = true;
             this.LBLescuela.BackColor = System.Drawing.Color.Transparent;
             this.LBLescuela.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LBLescuela.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.LBLescuela.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.LBLescuela.Location = new System.Drawing.Point(484, 308);
             this.LBLescuela.Name = "LBLescuela";
             this.LBLescuela.Size = new System.Drawing.Size(80, 23);
@@ -238,7 +238,7 @@
             this.label10.AutoSize = true;
             this.label10.BackColor = System.Drawing.Color.Transparent;
             this.label10.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label10.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label10.Location = new System.Drawing.Point(484, 144);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(43, 23);
@@ -258,7 +258,7 @@
             this.label11.AutoSize = true;
             this.label11.BackColor = System.Drawing.Color.Transparent;
             this.label11.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label11.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label11.Location = new System.Drawing.Point(117, 344);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(111, 23);
@@ -270,7 +270,7 @@
             this.LBLtacudiente.AutoSize = true;
             this.LBLtacudiente.BackColor = System.Drawing.Color.Transparent;
             this.LBLtacudiente.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LBLtacudiente.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.LBLtacudiente.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.LBLtacudiente.Location = new System.Drawing.Point(484, 228);
             this.LBLtacudiente.Name = "LBLtacudiente";
             this.LBLtacudiente.Size = new System.Drawing.Size(192, 23);
@@ -313,11 +313,11 @@
             // 
             this.LBLtitulo.AutoSize = true;
             this.LBLtitulo.BackColor = System.Drawing.Color.Transparent;
-            this.LBLtitulo.Font = new System.Drawing.Font("Tahoma", 20.25F);
+            this.LBLtitulo.Font = new System.Drawing.Font("Sitka Display", 48F);
             this.LBLtitulo.ForeColor = System.Drawing.Color.Transparent;
-            this.LBLtitulo.Location = new System.Drawing.Point(331, 23);
+            this.LBLtitulo.Location = new System.Drawing.Point(207, -13);
             this.LBLtitulo.Name = "LBLtitulo";
-            this.LBLtitulo.Size = new System.Drawing.Size(268, 33);
+            this.LBLtitulo.Size = new System.Drawing.Size(573, 92);
             this.LBLtitulo.TabIndex = 26;
             this.LBLtitulo.Text = "Registro De Personas";
             // 
@@ -329,7 +329,7 @@
             this.BTNregistrar.FlatAppearance.BorderSize = 0;
             this.BTNregistrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gold;
             this.BTNregistrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BTNregistrar.Location = new System.Drawing.Point(288, 423);
+            this.BTNregistrar.Location = new System.Drawing.Point(291, 439);
             this.BTNregistrar.Name = "BTNregistrar";
             this.BTNregistrar.Size = new System.Drawing.Size(76, 72);
             this.BTNregistrar.TabIndex = 27;
@@ -380,7 +380,7 @@
             this.BTNbuscar.FlatAppearance.BorderSize = 0;
             this.BTNbuscar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gold;
             this.BTNbuscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BTNbuscar.Location = new System.Drawing.Point(397, 423);
+            this.BTNbuscar.Location = new System.Drawing.Point(400, 439);
             this.BTNbuscar.Name = "BTNbuscar";
             this.BTNbuscar.Size = new System.Drawing.Size(76, 72);
             this.BTNbuscar.TabIndex = 31;
@@ -392,7 +392,7 @@
             this.GBagregar.BackColor = System.Drawing.Color.Transparent;
             this.GBagregar.Controls.Add(this.LBLagregar);
             this.GBagregar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.GBagregar.Location = new System.Drawing.Point(288, 423);
+            this.GBagregar.Location = new System.Drawing.Point(291, 439);
             this.GBagregar.Name = "GBagregar";
             this.GBagregar.Size = new System.Drawing.Size(76, 93);
             this.GBagregar.TabIndex = 32;
@@ -414,7 +414,7 @@
             this.groupBox1.BackColor = System.Drawing.Color.Transparent;
             this.groupBox1.Controls.Add(this.LBLbuscar);
             this.groupBox1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.groupBox1.Location = new System.Drawing.Point(397, 423);
+            this.groupBox1.Location = new System.Drawing.Point(400, 439);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(76, 93);
             this.groupBox1.TabIndex = 19;
@@ -440,7 +440,7 @@
             this.BTNeliminar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gold;
             this.BTNeliminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BTNeliminar.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BTNeliminar.Location = new System.Drawing.Point(500, 423);
+            this.BTNeliminar.Location = new System.Drawing.Point(503, 439);
             this.BTNeliminar.Name = "BTNeliminar";
             this.BTNeliminar.Size = new System.Drawing.Size(78, 72);
             this.BTNeliminar.TabIndex = 33;
@@ -451,7 +451,7 @@
             // 
             this.groupBox2.BackColor = System.Drawing.Color.Transparent;
             this.groupBox2.Controls.Add(this.label7);
-            this.groupBox2.Location = new System.Drawing.Point(500, 423);
+            this.groupBox2.Location = new System.Drawing.Point(503, 439);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(78, 95);
             this.groupBox2.TabIndex = 34;
@@ -477,7 +477,7 @@
             this.BTNmodificar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gold;
             this.BTNmodificar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BTNmodificar.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BTNmodificar.Location = new System.Drawing.Point(600, 423);
+            this.BTNmodificar.Location = new System.Drawing.Point(603, 439);
             this.BTNmodificar.Name = "BTNmodificar";
             this.BTNmodificar.Size = new System.Drawing.Size(78, 72);
             this.BTNmodificar.TabIndex = 35;
@@ -489,7 +489,7 @@
             this.groupBox3.BackColor = System.Drawing.Color.Transparent;
             this.groupBox3.Controls.Add(this.label8);
             this.groupBox3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.groupBox3.Location = new System.Drawing.Point(600, 423);
+            this.groupBox3.Location = new System.Drawing.Point(603, 439);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(78, 95);
             this.groupBox3.TabIndex = 36;
