@@ -69,6 +69,7 @@
             this.BTNregistrar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("BTNregistrar.BackgroundImage")));
             this.BTNregistrar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.BTNregistrar.FlatAppearance.BorderSize = 0;
+            this.BTNregistrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(64)))), ((int)(((byte)(15)))));
             this.BTNregistrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BTNregistrar.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BTNregistrar.Location = new System.Drawing.Point(85, 355);
@@ -177,6 +178,7 @@
             this.BTNbuscar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("BTNbuscar.BackgroundImage")));
             this.BTNbuscar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.BTNbuscar.FlatAppearance.BorderSize = 0;
+            this.BTNbuscar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(64)))), ((int)(((byte)(15)))));
             this.BTNbuscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BTNbuscar.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BTNbuscar.Location = new System.Drawing.Point(675, 358);
@@ -192,6 +194,7 @@
             this.BTNmodificar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("BTNmodificar.BackgroundImage")));
             this.BTNmodificar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.BTNmodificar.FlatAppearance.BorderSize = 0;
+            this.BTNmodificar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(64)))), ((int)(((byte)(15)))));
             this.BTNmodificar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BTNmodificar.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BTNmodificar.Location = new System.Drawing.Point(197, 355);
@@ -215,6 +218,7 @@
             this.BTNeliminar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("BTNeliminar.BackgroundImage")));
             this.BTNeliminar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.BTNeliminar.FlatAppearance.BorderSize = 0;
+            this.BTNeliminar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(64)))), ((int)(((byte)(15)))));
             this.BTNeliminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BTNeliminar.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BTNeliminar.Location = new System.Drawing.Point(304, 356);
