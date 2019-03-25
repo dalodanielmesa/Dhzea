@@ -313,13 +313,13 @@
             // 
             this.LBLtitulo.AutoSize = true;
             this.LBLtitulo.BackColor = System.Drawing.Color.Transparent;
-            this.LBLtitulo.Font = new System.Drawing.Font("Tahoma", 20.25F);
+            this.LBLtitulo.Font = new System.Drawing.Font("Sitka Display", 48F);
             this.LBLtitulo.ForeColor = System.Drawing.Color.Transparent;
-            this.LBLtitulo.Location = new System.Drawing.Point(331, 23);
+            this.LBLtitulo.Location = new System.Drawing.Point(337, -4);
             this.LBLtitulo.Name = "LBLtitulo";
-            this.LBLtitulo.Size = new System.Drawing.Size(268, 33);
+            this.LBLtitulo.Size = new System.Drawing.Size(280, 92);
             this.LBLtitulo.TabIndex = 26;
-            this.LBLtitulo.Text = "Registro De Personas";
+            this.LBLtitulo.Text = " Personas";
             // 
             // BTNregistrar
             // 
@@ -329,7 +329,7 @@
             this.BTNregistrar.FlatAppearance.BorderSize = 0;
             this.BTNregistrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gold;
             this.BTNregistrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BTNregistrar.Location = new System.Drawing.Point(288, 423);
+            this.BTNregistrar.Location = new System.Drawing.Point(288, 433);
             this.BTNregistrar.Name = "BTNregistrar";
             this.BTNregistrar.Size = new System.Drawing.Size(76, 72);
             this.BTNregistrar.TabIndex = 27;
@@ -380,7 +380,7 @@
             this.BTNbuscar.FlatAppearance.BorderSize = 0;
             this.BTNbuscar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gold;
             this.BTNbuscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BTNbuscar.Location = new System.Drawing.Point(397, 423);
+            this.BTNbuscar.Location = new System.Drawing.Point(397, 433);
             this.BTNbuscar.Name = "BTNbuscar";
             this.BTNbuscar.Size = new System.Drawing.Size(76, 72);
             this.BTNbuscar.TabIndex = 31;
@@ -392,7 +392,7 @@
             this.GBagregar.BackColor = System.Drawing.Color.Transparent;
             this.GBagregar.Controls.Add(this.LBLagregar);
             this.GBagregar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.GBagregar.Location = new System.Drawing.Point(288, 423);
+            this.GBagregar.Location = new System.Drawing.Point(288, 433);
             this.GBagregar.Name = "GBagregar";
             this.GBagregar.Size = new System.Drawing.Size(76, 93);
             this.GBagregar.TabIndex = 32;
@@ -414,7 +414,7 @@
             this.groupBox1.BackColor = System.Drawing.Color.Transparent;
             this.groupBox1.Controls.Add(this.LBLbuscar);
             this.groupBox1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.groupBox1.Location = new System.Drawing.Point(397, 423);
+            this.groupBox1.Location = new System.Drawing.Point(397, 433);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(76, 93);
             this.groupBox1.TabIndex = 19;
@@ -440,7 +440,7 @@
             this.BTNeliminar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gold;
             this.BTNeliminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BTNeliminar.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BTNeliminar.Location = new System.Drawing.Point(500, 423);
+            this.BTNeliminar.Location = new System.Drawing.Point(500, 433);
             this.BTNeliminar.Name = "BTNeliminar";
             this.BTNeliminar.Size = new System.Drawing.Size(78, 72);
             this.BTNeliminar.TabIndex = 33;
@@ -451,7 +451,7 @@
             // 
             this.groupBox2.BackColor = System.Drawing.Color.Transparent;
             this.groupBox2.Controls.Add(this.label7);
-            this.groupBox2.Location = new System.Drawing.Point(500, 423);
+            this.groupBox2.Location = new System.Drawing.Point(500, 433);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(78, 95);
             this.groupBox2.TabIndex = 34;
@@ -477,7 +477,7 @@
             this.BTNmodificar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gold;
             this.BTNmodificar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BTNmodificar.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BTNmodificar.Location = new System.Drawing.Point(600, 423);
+            this.BTNmodificar.Location = new System.Drawing.Point(600, 433);
             this.BTNmodificar.Name = "BTNmodificar";
             this.BTNmodificar.Size = new System.Drawing.Size(78, 72);
             this.BTNmodificar.TabIndex = 35;
@@ -489,7 +489,7 @@
             this.groupBox3.BackColor = System.Drawing.Color.Transparent;
             this.groupBox3.Controls.Add(this.label8);
             this.groupBox3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.groupBox3.Location = new System.Drawing.Point(600, 423);
+            this.groupBox3.Location = new System.Drawing.Point(600, 433);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(78, 95);
             this.groupBox3.TabIndex = 36;
